@@ -36,7 +36,7 @@ Users are deserves to verify everething.
 
 ### Why is this OS even need Custom Repo?
 
-- Becouse in my Custom Repositories I only accept **TRUSTED** utilities
+- Because in my Custom Repositories I only accept **TRUSTED** utilities
 - There iS **NO** Spyware in my Custom Repo
 - If you don't trust **ME** just simply check all apps on **REPO SITE**(there was a link in the future), everething is OPEN SOURCE
 - RCL World is Open Source
