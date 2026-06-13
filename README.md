@@ -23,7 +23,7 @@ RastaCapLinux is a privacy and security focused operating system designed around
 - Applications are not **trusted**.
 - Network are not **trusted**.
 - Hardware are not **trusted**.
-- Electrisity are not **trusted**.
+- Electricity are not **trusted**.
 
 Users are deserves to verify everething.
 
@@ -38,7 +38,7 @@ Users are deserves to verify everething.
 
 - Because in my Custom Repositories I only accept **TRUSTED** utilities
 - There iS **NO** Spyware in my Custom Repo
-- If you don't trust **ME** just simply check all apps on **REPO SITE**(there was a link in the future), everething is OPEN SOURCE
+- If you don't trust **ME** just simply check all apps on **REPO SITE**(there were a link in the future), everething is OPEN SOURCE
 - RCL World is Open Source
 
 ## PHILOSOPHY
@@ -62,7 +62,7 @@ While pursuing its own vision of an independent security-focused platform.
 
 :warning: Alpha concept stage.
 
-The project is currently held together bt caffeine,<br>
+The project is currently held together by caffeine,<br>
 imnsomnia, questionable decision and my paranoia.
 
 ## FUTURE PLANS
