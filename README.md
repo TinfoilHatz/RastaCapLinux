@@ -1,6 +1,6 @@
 # RastaCapLinux
 This is an experimental Operating System build from scratch.
-![RastaCapLinux](logo.png)
+![RastaCapLinux](RastaCapLinuxLogo.png)
 
 ---
 
