@@ -1,3 +1,10 @@
+# NEWS
+# :hearts: JUST STARTED TO DO PACKAGE MANAGER :hearts:
+### NEXT GOAL:
+- ### **Kernel** 
+- ### **WM**
+- ### **Repositories**
+
 # RastaCapLinux
 This is an experimental Operating System build from scratch.
 <p alighn="center">
