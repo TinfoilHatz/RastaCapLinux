@@ -1,4 +1,5 @@
 # NEWS
+### I dont have a lot of time to do Kernel,actualy im learning C now and we need to wait a little bit time until I start do Kernel, but i also do Cannabis, that means project is alive. just belive me.
 # :hearts: REPOSITORIES COMPLITED :hearts:
 ### NEXT GOAL:
 - ### **Kernel**
